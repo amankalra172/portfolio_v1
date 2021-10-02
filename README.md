@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://amankalra.com">
-    <!-- <img alt="Aman Kalra" src="https://img.lekoarts.de/gatsby/gatsby-themes-by-lekoarts.svg" /> -->
+
   </a>
 </p>
 <h1 align="center">
