@@ -1,3 +1,5 @@
+This is v1 of my website and is currently updated with a new one that can be found here: https://github.com/amankalra172/amankalra172.github.io
+
 <p align="center">
   <a href="https://amankalra.com">
 
